@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseWhen.RestSharp", "ResponseWhen.RestSharp\ResponseWhen.RestSharp.csproj", "{01BE7116-9803-4289-B39D-AD57DEC02BDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenResponse.RestSharp", "WhenResponse.RestSharp\WhenResponse.RestSharp.csproj", "{01BE7116-9803-4289-B39D-AD57DEC02BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResponseWhen.Test", "ResponseWhen.Test\ResponseWhen.Test.csproj", "{654BC4A8-087F-4700-BE52-1FAD94C58399}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhenResponse.Test", "WhenResponse.Test\WhenResponse.Test.csproj", "{654BC4A8-087F-4700-BE52-1FAD94C58399}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,4 +1,4 @@
-﻿namespace ResponseWhen.RestSharp
+﻿namespace WhenResponse.RestSharp
 {
     using global::RestSharp;
     using System;

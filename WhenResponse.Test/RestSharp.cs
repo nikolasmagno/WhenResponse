@@ -1,8 +1,8 @@
-namespace ResponseWhen.Test
+namespace WhenResponse.Test
 {
     using global::RestSharp;
     using Microsoft.VisualStudio.TestTools.UnitTesting;
-    using ResponseWhen.RestSharp;
+    using WhenResponse.RestSharp;
     using System.Net;
 
     [TestClass]
