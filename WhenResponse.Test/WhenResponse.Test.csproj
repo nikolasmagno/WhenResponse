@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\WhenResponse.RestSharp\WhenResponse.RestSharp.csproj" />
+    <ProjectReference Include="..\WhenResponse.RestSharp\WhenResponse.RestSharp.NetCore.csproj" />
   </ItemGroup>
 
 </Project>
