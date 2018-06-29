@@ -1,4 +1,4 @@
-# WhenResponse ![](https://badge.fury.io/nu/WhenResponse.RestSharp.svg)
+# WhenResponse [![](https://badge.fury.io/nu/WhenResponse.RestSharp.svg)](https://www.nuget.org/packages/WhenResponse.RestSharp/)
 
 ### A simple library to make response treatment clean and fluent
 
